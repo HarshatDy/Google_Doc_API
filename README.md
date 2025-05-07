@@ -1,6 +1,6 @@
 # Google Doc to HTML Converter
 
-This Python script fetches content from Google Docs using the Google Docs API and converts it to structured HTML blog pages using Google's Gemini API.
+This Python script fetches content from Google Docs using the Google Docs API and converts it to structured pages using Google's Gemini API.
 
 ## Setup
 
